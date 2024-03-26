@@ -22,7 +22,7 @@ Feel free to reach out to discuss collaboration opportunities, project ideas, or
 - **Machine Learning:** Supervised learning (Regression, Classification), Unsupervised learning (Clustering, Dimensionality reduction), Model evaluation and tuning
 
 
-## 📜certificates
+## 📜 Certificates
 - **Python for Data Science** by Great Learning Academy 
 
 - **Exploratory Data Analysis With Python Libraries** by Innomatics Research Labs
