@@ -9,9 +9,9 @@ I am a passionate data science enthusiast with expertise in Python, SQL, Power B
 ## 🔗 Links
 Feel free to reach out to discuss collaboration opportunities, project ideas, or just to connect!
 
-[![linkedin]()] (www.linkedin.com/in/bandlaudaykiran)
-[![Medium]()] (https://medium.com/@udaykiran.bandla1205)
-[![Email]()] (wwww.udaykiran.bandla1205@gmail.com)
+**connect with me on linkedin:** www.linkedin.com/in/bandlaudaykiran
+**Visite the website of my blogs on Medium:** https://medium.com/@udaykiran.bandla1205
+**Email:** wwww.udaykiran.bandla1205@gmail.com
 
 ## 🛠 Skills
 - **Programming:** Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)
