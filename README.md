@@ -19,7 +19,9 @@ Feel free to reach out to discuss collaboration opportunities, project ideas, or
 - **Visualization:** Power BI, Matplotlib, Seaborn
 - **Statistics:** Hypothesis testing, Probability distributions, Regression analysis
 - **Exploratory Data Analysis (EDA):** Data cleaning, Data visualization, Feature engineering
-- **Machine Learning:** Supervised learning (Regression, Classification), Unsupervised learning (Clustering, Dimensionality reduction), Model evaluation and tuning
+- **Machine Learning:** Supervised learning (Regression, Classification), Unsupervised learning (Clustering, Dimensionality reduction), Model evaluation and tuning and Algorithms
+- **Deep Learning:** Neural Networks, Perceptron,ANN ,CNN ,RNN, LSTM, GRU
+- **GenAI:** Encoder-Decoder Model, Attention, Transformer, Huggingface
 
 
 ## 📜 Certificates
