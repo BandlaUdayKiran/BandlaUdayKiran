@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I am a passionate data science enthusiast with expertise in Python, SQL, Power BI, statistics, exploratory data analysis (EDA), and machine learning. I thrive on solving complex problems and extracting insights from data to drive informed decision-making.
+I am a passionate data science enthusiast with expertise in Python, SQL, Power BI, statistics, exploratory data analysis (EDA), machine learning, Deep Leaning. I thrive on solving complex problems and extracting insights from data to drive informed decision-making.
 
 
 # Hi, I'm Uday Kiran ! 👋
