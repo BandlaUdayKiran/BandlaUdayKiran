@@ -25,6 +25,8 @@ Feel free to reach out to discuss collaboration opportunities, project ideas, or
 
 
 ## 📜 Certificates
+- **Advance Data Analysis Internship** by Innomatics Research Labs
+  
 - **Python for Data Science** by Great Learning Academy 
 
 - **Exploratory Data Analysis With Python Libraries** by Innomatics Research Labs
