@@ -14,7 +14,7 @@ Feel free to reach out to discuss collaboration opportunities, project ideas, or
 - **Email:** wwww.udaykiran.bandla1205@gmail.com
 
 ## 🛠 Skills
-- **Programming:** Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)
+- **Programming:** Python (NumPy, Pandas, Matplotlib, Seaborn, BeautifulSoup, Regex, Scikit-learn, TensorFlow)
 - **Database:** SQL
 - **Visualization:** Power BI, Matplotlib, Seaborn
 - **Statistics:** Hypothesis testing, Probability distributions, Regression analysis
